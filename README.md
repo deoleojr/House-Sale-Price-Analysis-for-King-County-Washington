@@ -5,7 +5,7 @@ House Sale Price Analysis for King County, WA
 Stat 6021
 
 ## Authors
-- Emmanuel Leonce 
+- Emmanuel Leonce & group members
 
 
 ## License
